@@ -1,5 +1,5 @@
 # 👋 Hi there!
-I'm Patrick, currently in Barcelona for my first year as a EUmaster4HPC participant.
+I'm Patrick, currently in Erlangen for my second year as a EUmaster4HPC participant and a Jr research engineer at BSC.
 
 ## 🌟 About Me
 - 🎓 MIRI-HPC Student at Universitat Politecnica de Catalunya
