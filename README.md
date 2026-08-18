@@ -1,5 +1,5 @@
 # 👋 Hi there!
-I'm Patrick, currently in Erlangen for my second year as a EUmaster4HPC participant and a Jr research engineer at BSC.
+I'm Patrick, currently at BSC as a Research Engineer. Working on RVV optimization on MPI and Kokkos, as well as memory and cache layout optimization.
 
 ## 🌟 About Me
 - 🎓 MIRI-HPC Student at Universitat Politecnica de Catalunya
@@ -17,4 +17,4 @@ I'm Patrick, currently in Erlangen for my second year as a EUmaster4HPC particip
 
 ## 📫 Let's Connect
 - [LinkedIn](www.linkedin.com/in/patrick-cerka)
-- [Email](patrickcerkalb@gmail.com)
+- [Email](cerkapatrick@gmail.com)
